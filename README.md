@@ -8,3 +8,6 @@ The forecasting system is built on the sensor data to predict the MPPT power out
 
 ![FINAL_PHOTO](https://user-images.githubusercontent.com/60823367/190897391-4e3d5785-7edf-43f3-9906-8c6155fa12c5.png)
 ![g4](https://user-images.githubusercontent.com/60823367/190897445-20cc055c-31f2-44b7-9cec-08536f201a26.png)
+![image](https://user-images.githubusercontent.com/60823367/190897480-9dfdeb4f-2068-4f81-a679-59892038d587.png)
+![image](https://user-images.githubusercontent.com/60823367/190897487-23916a02-028a-494c-87b0-11e36330f3b6.png)
+
